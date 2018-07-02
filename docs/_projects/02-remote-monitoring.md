@@ -4,6 +4,8 @@ permalink: /docs/projects/remote-monitoring/
 redirect_to:
   - https://docs.microsoft.com/en-us/azure/iot-accelerators/iot-accelerators-arduino-iot-devkit-az3166-devkit-remote-monitoringv2
 excerpt: "Visualize sensors status on DevKit using Azure IoT Suite Remote Monitoring."
+PreviousVersionText: "Use old version"
+PreviousVersionUrl: https://docs.microsoft.com/en-us/azure/iot-accelerators/iot-accelerators-arduino-iot-devkit-az3166-devkit-remote-monitoringv2
 header:
   overlay_image: /assets/images/projects-remote-monitoring.jpg
   overlay_full: true
